@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {file = "LICENSE"}
 authors = [
-    {name = "CH-Earth"},
+    {name = "Mohamed Moghairib", email = "mohamed.moghairib@ucalgary.ca"},
 ]
 keywords = ["hydrology", "HYPE", "modeling", "workflow"]
 classifiers = [
